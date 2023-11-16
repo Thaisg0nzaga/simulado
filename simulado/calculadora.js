@@ -1,4 +1,5 @@
 // Função para calcular o IMC e classificar
+
 function calcularIMC(nome, peso, altura) 
 {
     var alturaMetros = altura / 100;
